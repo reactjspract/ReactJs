@@ -1,2 +1,2 @@
-print("Hello, Welcome")
 print("Good Morning")
+print("Nice")
